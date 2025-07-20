@@ -62,14 +62,11 @@ The frontend will start on `http://localhost:3000`
 ## Initial Setup
 
 1. **Access the application** at `http://localhost:3000`
-2. **Login with demo accounts**:
-   - Admin: `admin` / `password`
-   - Employee: `john.doe` / `password`
 
-3. **Create a session** (Admin only):
+2. **Create a session** (Admin only):
    - Go to Admin Panel
    - Click "Create New Session"
-   - Display the QR code for users to scan
+   - Display the QR code for users download it and and user can only give attendence only after scan the QR.
 
 ## Features
 
