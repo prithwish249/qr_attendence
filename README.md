@@ -189,7 +189,6 @@ A modern attendance management system that uses QR codes to track attendance. Bu
    - Change port in `package.json` for frontend
 
 
-
 ## License
 
 This project is licensed under the MIT License. 
